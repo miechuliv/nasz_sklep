@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="zend">
+    <serverData>
+      <paths name="zend">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/domains/demo.stronazen.pl/public_html/nasz" local="$PROJECT_DIR$" web="nasz" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
